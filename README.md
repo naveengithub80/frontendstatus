@@ -1,2 +1,0 @@
-# finalfreontend
-# frontendstatus
